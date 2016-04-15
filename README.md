@@ -1,3 +1,4 @@
 # hello-world
 This is my hello world repository
-So...is this in my readme-edit or readme master?
+
+OK.  I did it.  I merged two readme files.  So... That's a thing I accomplished today.  I need a beer.
